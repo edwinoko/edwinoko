@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🚀 Here, I embark on a journey of code, collaboration, and creativity. 
+- 🔭 I’m currently working on small python projects.
+- 💬 Ask me about anything python related.
+- 📫 Best way to reach me is by mail, twitter or instagram
+- ⚡ Fun fact about me is that I enjoy fighting games and modding stuff
+
+
 <!--
 **edwinoko/edwinoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
